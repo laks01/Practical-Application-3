@@ -21,24 +21,24 @@ These steps followed to visualize the data to gain deeper understanding:
 
 
 <center>
-    <img src = distribution.png width = 60%/>
+    <img src = distribution.png width = 100%/>
 </center>
 
 ### Distribution after removing the outliers
 <center>
-    <img src = data_without_outliers.png width = 60%/>
+    <img src = data_without_outliers.png width = 100%/>
 </center>
 
 ### Correlation
 
 <center>
-    <img src = corr.png width = 60%/>
+    <img src = corr.png width = 100%/>
 </center>
 
 
 ### Standardized the data
 <center>
-    <img src = standardized.png width = 60%/>
+    <img src = standardized.png width = 100%/>
 </center>
 
 compare the performance of the classifiers we encountered in this section, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. We will utilize a dataset related to marketing bank products over the telephone.
@@ -56,7 +56,7 @@ The following Classification Models used in the application:
 
 ### Models performance
 <center>
-    <img src = modeling.png width = 60%/>
+    <img src = modeling.png width = 80%/>
 </center>
 
 ## Conclusion
